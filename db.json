@@ -1,5 +1,4 @@
-{
-  "hero": {
+"hero": {
     "showHero": true,
     "heroType": "GAME",
     "heroTypeState": "CROSS",
@@ -21,4 +20,3 @@
     ],
     "showEllipsis": true
   },
-}
