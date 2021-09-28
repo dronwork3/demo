@@ -1,7 +1,9 @@
 {
-  "posts": {
-    "name": "typicode"
-  },
+  "posts": [
+    {
+      "name": "typicode"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
