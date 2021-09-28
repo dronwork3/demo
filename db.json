@@ -1,11 +1,20 @@
 {
-  "member": [
+  "members": [
     {
-      "name": "typicodjlklkj1", "surname": "sdsd", "selected": false
+      "id": 0, "memberName": "Real Name", "memberUserName": "username", "selected": false
     },
     {
-      "name": "typicode"
-    }
+      "id": 1, "memberName": "Real Name", "memberUserName": "username", "selected": false
+    },
+    {
+      "id": 2, "memberName": "Real Name", "memberUserName": "username", "selected": false
+    },
+    {
+      "id": 3, "memberName": "Real Name", "memberUserName": "username", "selected": false
+    },
+    {
+      "id": 4, "memberName": "Real Name", "memberUserName": "username", "selected": false
+    },
   ],
   "profile": {
     "name": "typicode"
