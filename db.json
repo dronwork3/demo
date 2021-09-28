@@ -1,4 +1,18 @@
 {
+  "posts": [
+    {
+        "id": 1,
+        "name": "MCCO4rrQ3h",
+        "online": false,
+        "picture": "https://picsum.photos/seed/15/60/60"
+    },
+    {
+        "id": 1,
+        "name": "MCCO4rrQ3h",
+        "online": false,
+        "picture": "https://picsum.photos/seed/15/60/60"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
