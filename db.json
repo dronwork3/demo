@@ -37,10 +37,10 @@
     "selected": false,
   },
   {
-    id: 6,
-    memberName: "Real Name",
-    memberUserName: "username",
-    selected: false,
+    "id": 6,
+    "memberName": "Real Name",
+    "memberUserName": "username",
+    "selected": false,
   },
   {
     "id": 7,
