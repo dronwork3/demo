@@ -5,6 +5,12 @@
       "memberName": "Real Name", 
       "memberUserName": "username", 
       "selected": false
+    },
+    {
+      "id": 1, 
+      "memberName": "Real Name", 
+      "memberUserName": "username", 
+      "selected": false
     }
   ],
   "profile": {
